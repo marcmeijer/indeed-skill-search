@@ -1,10 +1,7 @@
 # indeed-skill-search
 variations of skill search notebooks
 
-![Datbos logo](logo.png)
-  
-
-## Contents
+### Contents
 
 1. [Background](#Background)
 1. [Setup](#Setup)
