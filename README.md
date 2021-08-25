@@ -8,7 +8,7 @@ variations of skill search notebooks
 
 1. [Background](#Background)
 1. [Setup](#Setup)
-1. [Data](#Data)
+1. [Data](#Datas)
 1. [Metrics](#Metrics)
 1. [Run Parameters](#Run)
 1. [Output](#Output)
