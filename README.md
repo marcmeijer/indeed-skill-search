@@ -12,7 +12,7 @@ variations of skill search notebooks
 1. [Metrics](#Metrics)
 1. [Run Parameters](#Run)
 1. [Output](#Output)
-1. [Modifications](#Mod)
+1. [Modifications](#Modification/Improvements)
 
 
 ### Background
